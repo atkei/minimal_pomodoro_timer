@@ -1,0 +1,25 @@
+enum TimerItem { focus, shortBreak, longBreak }
+
+enum TimerPrefKey {
+  darkThemeEnabled,
+  timeLeftHiddenEnabled,
+  timerItemHiddenEnabled,
+  timerCountHiddenEnabled,
+  menuHiddenEnable,
+  focusProgressColor,
+  shortBreakProgressColor,
+  longBreakProgressColor,
+  wakeLockEnabled,
+  vibrationCount,
+  ringToneEnabled,
+  focusDuration,
+  shortBreakDuration,
+  longBreakDuration,
+  longBreakInterval,
+  timerItem,
+  focusCount,
+  shortBreakCount,
+  isTimerStopped,
+  isTimerResumed,
+  completeTZDateTime,
+}

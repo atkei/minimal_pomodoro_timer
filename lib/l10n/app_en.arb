@@ -1,0 +1,50 @@
+{
+  "focus": "Focus",
+  "shortBreak": "Short break",
+  "longBreak": "Long break",
+  "nextTimer": "Next timer",
+  "previousTimer": "Previous timer",
+  "resetSession": "First session",
+  "settings": "Settings",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "settingTimer": "Timer",
+  "settingTimerCompletionNotification": "System",
+  "settingView": "View",
+  "settingOther": "Information",
+  "hour": " hour ",
+  "hours": " hours ",
+  "min": " min ",
+  "sec": " sec ",
+  "appNotification": "Notification on completion",
+  "reviewApp": "Review app",
+  "ringtone": "Ringtone on completion",
+  "numVibrations": "Number of vibrations on completion",
+  "timeFocus": "Let's focus",
+  "timeShortBreak": "Let's take a short break",
+  "timeLongBreak": "Let's take a long break",
+  "versionLicense": "Version and licenses",
+  "wakelock": "Keep app awake",
+  "focusDuration": "Focus duration",
+  "shortBreakDuration": "Short break duration",
+  "longBreakDuration": "Long break duration",
+  "longBreakInterval": "Long break interval",
+  "longBreakIntervalSetting": "Every {times} focus",
+  "@longBreakIntervalSetting": {
+    "placeholders": {
+      "times": {
+        "type": "int",
+        "format": "decimalPattern",
+        "description": "Focus count"
+      }
+    }
+  },
+  "colorFocusIndicator": "Color of focus timer indicator",
+  "colorShortBreakIndicator": "Color of short break timer indicator",
+  "colorLongBreakIndicator": "Color of long break timer indicator",
+  "hidePomodoroItem": "Display focus/break",
+  "hidePomodoroProgress": "Display progress",
+  "hideRemainingTime": "Display remaining time",
+  "hideMenu": "Display menu icon",
+  "darkMode": "Dark mode"
+}

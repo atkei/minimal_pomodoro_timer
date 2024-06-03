@@ -1,0 +1,51 @@
+{
+  "focus": "Focus",
+  "shortBreak": "Short break",
+  "longBreak": "Long break",
+  "nextTimer": "次のタイマー",
+  "previousTimer": "前のタイマー",
+  "resetSession": "最初のセッション",
+  "settings": "設定",
+  "ok": "OK",
+  "confirm": "確認",
+  "cancel": "キャンセル",
+  "settingTimer": "タイマー",
+  "settingTimerCompletionNotification": "システム",
+  "settingView": "ビュー",
+  "settingOther": "アプリの情報",
+  "hour": " 時間 ",
+  "hours": " 時間 ",
+  "min": " 分 ",
+  "sec": " 秒 ",
+  "appNotification": "完了時の通知設定",
+  "reviewApp": "アプリを評価",
+  "ringtone": "完了時の着信音",
+  "numVibrations": "完了時のバイブレーション数",
+  "timeFocus": "集中しましょう",
+  "timeShortBreak": "小休憩しましょう",
+  "timeLongBreak": "大休憩しましょう",
+  "versionLicense": "バージョンとライセンス",
+  "wakelock": "アプリを起動したままにする",
+  "focusDuration": "集中する時間",
+  "shortBreakDuration": "小休憩する時間",
+  "longBreakDuration": "大休憩する時間",
+  "longBreakInterval": "大休憩のタイミング",
+  "longBreakIntervalSetting": "{times} 回目の集中後",
+  "@longBreakIntervalSetting": {
+    "placeholders": {
+      "times": {
+        "type": "int",
+        "format": "decimalPattern",
+        "description": "Focus count"
+      }
+    }
+  },
+  "colorFocusIndicator": "集中タイマーインジケータの色",
+  "colorShortBreakIndicator": "小休憩タイマーインジケータの色",
+  "colorLongBreakIndicator": "大休憩タイマーインジケータの色",
+  "hidePomodoroItem": "集中/休憩を表示",
+  "hidePomodoroProgress": "進捗を表示",
+  "hideRemainingTime": "残り時間を表示",
+  "hideMenu": "メニューボタンを表示",
+  "darkMode": "ダークモード"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "CustomIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "929ff290f0be577d2a2d587d5a53eec1",
+      "css": "play",
+      "code": 59392,
+      "src": "iconic"
+    },
+    {
+      "uid": "990e2ebacf09605e7cd8505ee7bd58f0",
+      "css": "fast_backward",
+      "code": 61513,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "b0b8d6b277c11d88e8eeb7905016420d",
+      "css": "backward",
+      "code": 61514,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "a55e014e0175bf004a4a7e5cefbc776a",
+      "css": "play-1",
+      "code": 61515,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "a8c252c60cd7072db30462d40d03f9ef",
+      "css": "stop",
+      "code": 61517,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "a798b5b2e8d0f48d1a1fbe00b12f49c3",
+      "css": "forward",
+      "code": 61518,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "4e88c565826e21822ad1c33f91d1f74d",
+      "css": "fast_forward",
+      "code": 61520,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "3c6dde3d8c5d0668bf0015b1e853c7a9",
+      "css": "step_forward",
+      "code": 61521,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "5f46a8b9546779f4579328218047f1e4",
+      "css": "pause",
+      "code": 61516,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "1e7cd687cfc325f959b897f2a36f0d22",
+      "css": "step_backward",
+      "code": 61512,
+      "src": "fontawesome5"
+    }
+  ]
+}
